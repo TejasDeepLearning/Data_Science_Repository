@@ -1,2 +1,2 @@
 # Data_Science_Repository
-This is a repository that contains all of my Data Science projects in Python.
+This is a repository that contains all of my Data Science projects in Dataquest.
